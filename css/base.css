@@ -65,12 +65,12 @@ template {
 }
 
 a {
-	background: transparent;
+	/* background: transparent; */
 }
 
 a:active,
 a:hover {
-	outline: 0;
+	/* outline: 0; */
 }
 
 abbr[title] {
